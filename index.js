@@ -34,16 +34,16 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  var n = preserveInt('sldkjflksjf', 10);
-  return preserveInt(n)
+  var n = parseInt('sldkjflksjf', 10);
+  return parseInt(n)
 }
 
 function preserveDecimal(n){
-  var n = preserveFloat('2.222', 10)
-  return preserveFloat(n)
+  var n = parseFloat('2.222', 10)
+  return parseFloat(n)
 }
 
 function preserveDecimal(n){
-  var n = preserveFloat('sldkjflksjf', 10)
-  return preserveFloat(n)
+  var n = parseFloat('sldkjflksjf', 10)
+  return parseFloat(n)
 }
