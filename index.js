@@ -32,4 +32,3 @@ function makeInt(a){
   var a = parseInt('0x2328');
   return parseInt(a)
 }
-
