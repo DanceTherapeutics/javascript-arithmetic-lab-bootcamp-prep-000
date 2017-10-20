@@ -39,11 +39,11 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  var preserveFloat('2.222', 10)
+  var n = preserveFloat('2.222', 10)
   return preserveFloat(n)
 }
 
 function preserveDecimal(n){
-  var preserveFloat('sldkjflksjf', 10)
+  var n = preserveFloat('sldkjflksjf', 10)
   return preserveFloat(n)
 }
