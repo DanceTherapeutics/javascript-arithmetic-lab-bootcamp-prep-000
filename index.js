@@ -23,9 +23,9 @@ function dec(a){
   return a -= 1
 }
 
-function makeInt(a){
+function makeInt(n){
   var a = parseInt('20', 10)
-  return parseInt(a)
+  return parseInt(n)
 }
 
 function makeInt(n){
