@@ -28,12 +28,12 @@ function makeInt(a){
   return parseInt(a)
 }
 
-function makeInt(a){
-  var a = parseInt('0x2328', 10);
-  return parseInt(a)
+function makeInt(n){
+  var n = parseInt('0x2328', 10);
+  return parseInt(n)
 }
 
-function makeInt(a){
-  var a = preserveDecimal('sldkjflksjf');
-  return preserveDecimal(a)
+function makeInt(n){
+  var n = preserveDecimal('sldkjflksjf');
+  return preserveDecimal(n)
 }
