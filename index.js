@@ -38,8 +38,8 @@ function makeInt(n){
   return parseInt(n)
 }
 
-function preserveDecimal(n, 10){
-  var n = parseInt('2.222')
+function preserveDecimal(n){
+  var n = parseInt('2.222', 10)
   return parseInt(n)
 }
 
