@@ -39,8 +39,8 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  var n = parseInt('2.222', 10)
-  return parseInt(n)
+  var n = parseFloat('2.222', 10)
+  return parseFlaot(n)
 }
 
 function preserveDecimal(n){
