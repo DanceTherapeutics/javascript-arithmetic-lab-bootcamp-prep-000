@@ -21,19 +21,3 @@ function makeInt(n){
   var a = parseInt('2.222', 10)
   return parseInt(n)
 }
-function makeInt(n){
-  var n = parseInt('0x2328')
-  return parseInt(n);
-}
-function makeInt(n){
-  var n = ('sldkjflksjf')
-  return parseInt(n);
-}
-function preserveDecimal(n){
-  var n = parseFloat('2.222', 10);
-  return preserveDecimal(n)
-}
-function preserveDecimal(n){
-  var n = parseFloat('sldkjflksjf')
-  return parseFloat(n);
-}
