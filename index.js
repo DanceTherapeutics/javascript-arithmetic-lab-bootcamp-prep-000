@@ -18,6 +18,6 @@ function dec(a){
   return a -= 1
 }
 function makeInt(a){
-  var a = parseInt('2.222')
+  var a = parseInt(a)
   return parseInt(a)
 }
