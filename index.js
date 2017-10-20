@@ -30,6 +30,6 @@ function preserveDecimal(n){
   return parseFloat(n, 10)
 }
 
-function preserveDecimal(n){
+function returns(n){
   return parseFloat('sldkjflksjf')
 }
