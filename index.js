@@ -23,7 +23,8 @@ function dec(a){
   return a -= 1
 }
 
-function parseInt(a){
+function makeInt(a){
+  var a = parseInt(a)
   return parseInt(a)
 }
 
@@ -34,5 +35,15 @@ function makeInt(n){
 
 function makeInt(n){
   var n = preserveFloat('sldkjflksjf', 10);
+  return preserveFloat(n)
+}
+
+function preserveDecimal(n){
+  var preserveFloat('2.222', 10)
+  return preserveFloat(n)
+}
+
+function preserveDecimal(n){
+  var preserveFloat('sldkjflksjf', 10)
   return preserveFloat(n)
 }
