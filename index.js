@@ -21,3 +21,7 @@ function makeInt(a){
   var a = parseInt(a)
   return parseInt(a)
 }
+function makeInt(n){
+  var n = parseInt('0x2328');
+  return parseInt(n)
+}
