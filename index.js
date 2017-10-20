@@ -32,3 +32,8 @@ function makeInt(a){
   var a = parseInt('0x2328', 10);
   return parseInt(a)
 }
+
+function makeInt(a){
+  var a = preserveDecimal('sldkjflksjf');
+  return preserveDecimal(a)
+}
