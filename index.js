@@ -24,7 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
-  var a = Math.floor(Math.random() * 1000)
+  var a = '20'
   return parseInt(a)
 }
 
