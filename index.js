@@ -24,6 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
+  var a = parseInt('20', 10)
   return parseInt(a)
 }
 
