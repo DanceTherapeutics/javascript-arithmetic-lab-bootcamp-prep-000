@@ -43,7 +43,7 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 
-function preserveDecimal(n){
+function preserveDecimal('sldkjflksjf', 10){
   var n = parseFloat('sldkjflksjf', 10)
   return parseFloat(n)
 }
