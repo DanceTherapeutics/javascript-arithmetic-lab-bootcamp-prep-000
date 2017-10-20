@@ -34,6 +34,6 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  var n = preserveDecimal('sldkjflksjf');
-  return preserveDecimal(n)
+  var n = preserveFloat('sldkjflksjf');
+  return preserveFloat(n)
 }
