@@ -33,6 +33,6 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  var n = preserveFloat('sldkjflksjf');
+  var n = preserveFloat('sldkjflksjf', 10);
   return preserveFloat(n)
 }
